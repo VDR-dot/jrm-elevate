@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "company": "Unternehmen",
+    "services": "Dienstleistungen",
+    "technologies": "Technologien",
+    "industries": "Branchen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "JRM Business Development",
+    "subtitle": "Strategischer kommerzieller Partner für industrielle und fertigende Wertschöpfungsketten in der EU",
+    "statement": "Kein Makler. Kein Agent. Sondern eine Erweiterung Ihres Teams für Wachstum, Sourcing und kommerzielle Entscheidungen.",
+    "cta1": "Kontakt aufnehmen",
+    "cta2": "Zusammenarbeit erkunden"
+  },
+  "sourcing": {
+    "title": "One-Stop Sourcing Partner",
+    "categories": {
+      "plastics": "Kunststoffe",
+      "electronics": "Elektronik",
+      "cncMetals": "CNC Metalle",
+      "cableHarnesses": "Kabelbäume",
+      "stampedMetals": "Gestanzte Metalle",
+      "rubber": "Gummi",
+      "engineeredFoams": "Technische Schäume",
+      "construction": "Bauwesen"
+    }
+  },
+  "support": {
+    "title": "Umfassende Unterstützung in Schlüsselbereichen",
+    "items": {
+      "projectManagement": {
+        "title": "Projektmanagement",
+        "description": "Von der Idee zur Umsetzung"
+      },
+      "supplierSourcing": {
+        "title": "Lieferantensuche",
+        "description": "Für zuverlässige Lieferkette"
+      },
+      "costOptimization": {
+        "title": "Kostenoptimierung",
+        "description": "Für höhere Rentabilität"
+      },
+      "logistics": {
+        "title": "Logistik & Distribution",
+        "description": "Für effiziente Lieferkette"
+      },
+      "qualityAssurance": {
+        "title": "Qualitätssicherung",
+        "description": "Für höchste Industriestandards"
+      },
+      "technicalConsulting": {
+        "title": "Technische Beratung",
+        "description": "Für erstklassige Unterstützung"
+      }
+    }
+  },
+  "company": {
+    "title": "Über das Unternehmen",
+    "subtitle": "Wer wir sind",
+    "paragraphs": {
+      "p1": "JRM Business Development ist ein slowenisches Unternehmen, das als strategischer Geschäftsentwicklungspartner für Fertigungsunternehmen agiert. Wir sind auf die Verbindung von Käufern und Lieferanten in industriellen und fertigenden Wertschöpfungsketten in der EU spezialisiert.",
+      "p2": "Das Unternehmen wurde von Fachleuten mit langjähriger Erfahrung in der Automobilindustrie, industriellen Automatisierung und B2B-Vertrieb gegründet und geleitet. Unser Ansatz basiert auf einem tiefen Verständnis von Fertigungsprozessen, technischen Anforderungen und kommerziellen Dynamiken.",
+      "p3": "Unser Fokus liegt nicht auf kurzfristigen Transaktionen, sondern auf langfristigen Partnerschaften. Wir agieren als Erweiterung Ihres Teams - von der Identifizierung von Möglichkeiten, über RFQ-Prozesse, bis zur Stabilisierung der Serienproduktion."
+    },
+    "stats": {
+      "title": "Fakten und Zahlen",
+      "partners": "20+ aktive Fertigungspartner in EU und USA",
+      "rfqs": "80+ aktive RFQs und Sourcing-Projekte",
+      "volumes": "Projekte von 100.000 bis Millionen Stück jährlich",
+      "regions": "Kunden in DACH-Region, EU, USA und UK",
+      "standards": "Arbeit gemäß ISO9001, IATF 16949, ISO13485, APQP, PPAP, VDA 6.3"
+    }
+  },
+  "services": {
+    "title": "Dienstleistungen",
+    "items": {
+      "businessDevelopment": {
+        "title": "Business Development & Sourcing",
+        "bullets": [
+          "Strukturierter Zugang zu OEM- und Tier-1-Käufern",
+          "Aktives RFQ-Prozessmanagement",
+          "Entwicklung neuer Geschäftsmöglichkeiten"
+        ]
+      },
+      "supplierSourcing": {
+        "title": "Lieferantensuche & Qualifizierung",
+        "bullets": [
+          "Identifizierung und Vorqualifizierung von Lieferanten",
+          "Technische und kommerzielle Analyse",
+          "Risikominderung bei der Einführung neuer Quellen"
+        ]
+      },
+      "rfq": {
+        "title": "RFQ, CBD & Verhandlungen",
+        "bullets": [
+          "Verständnis von Kostenstrukturen",
+          "Unterstützung bei Angeboten und Verhandlungen",
+          "Fokus auf langfristige Nachhaltigkeit, kein Dumping"
+        ]
+      },
+      "production": {
+        "title": "Serienproduktionsstart",
+        "bullets": [
+          "Unterstützung bis SOP",
+          "Koordination zwischen Käufer und Lieferant",
+          "Langfristige Stabilisierung der Zusammenarbeit"
+        ]
+      }
+    }
+  },
+  "technologies": {
+    "title": "Technologien und Kompetenzen",
+    "items": [
+      "Kunststoffspritzgussteile aus Thermoplasten und Duroplasten",
+      "Präzisions-CNC-Bearbeitung und Gussbearbeitung",
+      "Gestanzte und umgeformte Metallteile",
+      "Hybride Metall-Kunststoff-Teile und Baugruppen",
+      "Kabelbäume und Kabelmontagen",
+      "Elektronikmodule, PCBA, EMS",
+      "Technische Schäume und weiche Komponenten",
+      "Premium Holz-Aluminium und Holzbau-Tischlerei"
+    ]
+  },
+  "industries": {
+    "title": "Branchen, die wir bedienen",
+    "items": {
+      "automotive": {
+        "title": "Automobil & Mobilität",
+        "description": "OEM, Tier-1, Tier-2"
+      },
+      "automation": {
+        "title": "Industrielle Automatisierung & Maschinenbau",
+        "description": "Automatisierung und Maschinenbau"
+      },
+      "electronics": {
+        "title": "Elektronik & EMS",
+        "description": "Elektronikmodule und Dienstleistungen"
+      },
+      "medical": {
+        "title": "Medizin- & Messtechnik",
+        "description": "Medizinische und Messinstrumente"
+      },
+      "construction": {
+        "title": "Bau- & Architektursysteme",
+        "description": "Gebäudesysteme und Elemente"
+      }
+    }
+  },
+  "contact": {
+    "title": "Lassen Sie uns erkunden, ob es Synergien gibt",
+    "subtitle": "Ein kurzes Treffen zur Bewertung: technische und kommerzielle Abstimmung; relevante Fähigkeiten und Volumen; potenzielle Pilot- oder Sourcing-Projekte.",
+    "form": {
+      "name": "Vollständiger Name",
+      "company": "Unternehmen",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "message": "Nachricht",
+      "privacy": "Ich stimme der Datenschutzrichtlinie zu",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "success": "Nachricht erfolgreich gesendet!",
+      "error": "Fehler beim Senden. Bitte versuchen Sie es erneut."
+    },
+    "direct": {
+      "title": "Direkter Kontakt",
+      "email": "info@jrm-bd.com",
+      "phone": "+386 XX XXX XXX"
+    }
+  },
+  "footer": {
+    "company": "JRM Business Development d.o.o.",
+    "tagline": "Strategic Commercial Partner for EU Manufacturing",
+    "privacy": "Datenschutz",
+    "sitemap": "Sitemap"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Seite existiert nicht.",
+    "backHome": "Zurück zur Startseite"
+  },
+  "seo": {
+    "home": {
+      "title": "JRM Business Development | Strategischer kommerzieller Partner",
+      "description": "Strategischer kommerzieller Partner für industrielle und fertigende Wertschöpfungsketten in der EU. Business Development, Sourcing und kommerzielle Lösungen."
+    },
+    "company": {
+      "title": "Unternehmen | JRM Business Development",
+      "description": "Erfahren Sie mehr über JRM Business Development - ein slowenisches Unternehmen für strategische Geschäftsentwicklung in der Fertigungsindustrie."
+    },
+    "services": {
+      "title": "Dienstleistungen | JRM Business Development",
+      "description": "Business Development, Lieferantensuche, RFQ-Management und Serienproduktionsstart für Fertigungsunternehmen."
+    },
+    "technologies": {
+      "title": "Technologien | JRM Business Development",
+      "description": "Kunststoffe, CNC-Metalle, Elektronik, Kabelbäume und andere Fertigungstechnologien."
+    },
+    "industries": {
+      "title": "Branchen | JRM Business Development",
+      "description": "Automobil, industrielle Automatisierung, Elektronik, Medizintechnik und Bauindustrie."
+    },
+    "contact": {
+      "title": "Kontakt | JRM Business Development",
+      "description": "Nehmen Sie Kontakt mit uns auf. Lassen Sie uns Zusammenarbeitsmöglichkeiten in der Fertigungsindustrie erkunden."
+    }
+  }
+}

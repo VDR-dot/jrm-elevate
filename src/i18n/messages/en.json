@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "company": "Company",
+    "services": "Services",
+    "technologies": "Technologies",
+    "industries": "Industries",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "JRM Business Development",
+    "subtitle": "Strategic commercial partner for industrial and manufacturing value chains in the EU",
+    "statement": "Not a broker. Not an agent. But an extension of your team for growth, sourcing, and commercial decisions.",
+    "cta1": "Get in touch",
+    "cta2": "Explore collaboration"
+  },
+  "sourcing": {
+    "title": "One-stop sourcing partner",
+    "categories": {
+      "plastics": "Plastics",
+      "electronics": "Electronics",
+      "cncMetals": "CNC Metals",
+      "cableHarnesses": "Cable Harnesses",
+      "stampedMetals": "Stamped Metals",
+      "rubber": "Rubber",
+      "engineeredFoams": "Engineered Foams",
+      "construction": "Construction"
+    }
+  },
+  "support": {
+    "title": "Comprehensive support on key areas",
+    "items": {
+      "projectManagement": {
+        "title": "Project Management",
+        "description": "From ideation to realization"
+      },
+      "supplierSourcing": {
+        "title": "Supplier Sourcing",
+        "description": "For reliable supply chain"
+      },
+      "costOptimization": {
+        "title": "Cost Optimization",
+        "description": "For higher profitability"
+      },
+      "logistics": {
+        "title": "Logistics & Distribution",
+        "description": "For efficient supply chain"
+      },
+      "qualityAssurance": {
+        "title": "Quality Assurance",
+        "description": "For highest industry standards"
+      },
+      "technicalConsulting": {
+        "title": "Technical Consulting",
+        "description": "For best-in-class support"
+      }
+    }
+  },
+  "company": {
+    "title": "About Company",
+    "subtitle": "Who we are",
+    "paragraphs": {
+      "p1": "JRM Business Development is a Slovenian company acting as a strategic business development partner for manufacturing companies. We specialize in connecting buyers and suppliers within industrial and manufacturing value chains across the EU.",
+      "p2": "The company is founded and managed by operators with extensive experience in the automotive industry, industrial automation, and B2B sales. Our approach is based on a deep understanding of manufacturing processes, technical requirements, and commercial dynamics.",
+      "p3": "Our focus is not short-term transactions, but long-term partnerships. We act as an extension of your team - from opportunity identification, through RFQ processes, to stabilization of serial production."
+    },
+    "stats": {
+      "title": "Facts and figures",
+      "partners": "20+ active manufacturing partners in EU and USA",
+      "rfqs": "80+ active RFQs and sourcing projects",
+      "volumes": "Projects from 100,000 to millions of pieces annually",
+      "regions": "Customers in DACH region, EU, USA, and UK",
+      "standards": "Work compliant with ISO9001, IATF 16949, ISO13485, APQP, PPAP, VDA 6.3"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "items": {
+      "businessDevelopment": {
+        "title": "Business Development & Sourcing",
+        "bullets": [
+          "Structured access to OEM and Tier-1 buyers",
+          "Active RFQ process management",
+          "Development of new business opportunities"
+        ]
+      },
+      "supplierSourcing": {
+        "title": "Supplier Sourcing & Qualification",
+        "bullets": [
+          "Identification and pre-qualification of suppliers",
+          "Technical and commercial analysis",
+          "Risk reduction when introducing new sources"
+        ]
+      },
+      "rfq": {
+        "title": "RFQ, CBD & Negotiations",
+        "bullets": [
+          "Understanding cost structures",
+          "Support in quotations and negotiations",
+          "Focus on long-term sustainability, not dumping"
+        ]
+      },
+      "production": {
+        "title": "Serial Production Launch",
+        "bullets": [
+          "Support until SOP",
+          "Coordination between buyer and supplier",
+          "Long-term stabilization of cooperation"
+        ]
+      }
+    }
+  },
+  "technologies": {
+    "title": "Technologies and Competencies",
+    "items": [
+      "Plastic injection molded parts from thermoplastics and duroplastics",
+      "Precision CNC machining and casting processing",
+      "Stamped and formed metal parts",
+      "Hybrid metal-plastic parts and assemblies",
+      "Cable harnesses and cable assemblies",
+      "Electronic modules, PCBA, EMS",
+      "Engineered foams and soft components",
+      "Premium wood-aluminum and wooden building joinery"
+    ]
+  },
+  "industries": {
+    "title": "Industries we serve",
+    "items": {
+      "automotive": {
+        "title": "Automotive & Mobility",
+        "description": "OEM, Tier-1, Tier-2"
+      },
+      "automation": {
+        "title": "Industrial Automation & Machinery",
+        "description": "Automation and machine building"
+      },
+      "electronics": {
+        "title": "Electronics & EMS",
+        "description": "Electronic modules and services"
+      },
+      "medical": {
+        "title": "Medical & Measurement Equipment",
+        "description": "Medical and measurement instruments"
+      },
+      "construction": {
+        "title": "Construction & Architectural Systems",
+        "description": "Building systems and elements"
+      }
+    }
+  },
+  "contact": {
+    "title": "Let's explore if there's synergy",
+    "subtitle": "A brief meeting to assess: technical and commercial alignment; relevant capabilities and volumes; potential pilot or sourcing projects.",
+    "form": {
+      "name": "Full name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "privacy": "I agree to the privacy policy",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again."
+    },
+    "direct": {
+      "title": "Direct contact",
+      "email": "info@jrm-bd.com",
+      "phone": "+386 XX XXX XXX"
+    }
+  },
+  "footer": {
+    "company": "JRM Business Development d.o.o.",
+    "tagline": "Strategic Commercial Partner for EU Manufacturing",
+    "privacy": "Privacy",
+    "sitemap": "Sitemap"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist.",
+    "backHome": "Back to home"
+  },
+  "seo": {
+    "home": {
+      "title": "JRM Business Development | Strategic Commercial Partner",
+      "description": "Strategic commercial partner for industrial and manufacturing value chains in the EU. Business development, sourcing, and commercial solutions."
+    },
+    "company": {
+      "title": "About Company | JRM Business Development",
+      "description": "Learn about JRM Business Development - a Slovenian company for strategic business development in the manufacturing industry."
+    },
+    "services": {
+      "title": "Services | JRM Business Development",
+      "description": "Business development, supplier sourcing, RFQ management, and serial production launch for manufacturing companies."
+    },
+    "technologies": {
+      "title": "Technologies | JRM Business Development",
+      "description": "Plastics, CNC metals, electronics, cable harnesses, and other manufacturing technologies."
+    },
+    "industries": {
+      "title": "Industries | JRM Business Development",
+      "description": "Automotive, industrial automation, electronics, medical equipment, and construction industries."
+    },
+    "contact": {
+      "title": "Contact | JRM Business Development",
+      "description": "Get in touch with us. Let's explore collaboration opportunities in the manufacturing industry."
+    }
+  }
+}

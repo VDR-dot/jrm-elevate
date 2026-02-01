@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "company": "Podjetje",
+    "services": "Storitve",
+    "technologies": "Tehnologije",
+    "industries": "Industrije",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "JRM Business Development",
+    "subtitle": "Strateški komercialni partner za industrijske in proizvodne verige v EU",
+    "statement": "Ne posrednik. Ne agent. Temveč podaljšek vaše ekipe za rast, sourcing in komercialne odločitve.",
+    "cta1": "Stopimo v stik",
+    "cta2": "Raziščimo sodelovanje"
+  },
+  "sourcing": {
+    "title": "One-stop sourcing partner",
+    "categories": {
+      "plastics": "Plastika",
+      "electronics": "Elektronika",
+      "cncMetals": "CNC kovine",
+      "cableHarnesses": "Kabelski snopi",
+      "stampedMetals": "Štancane kovine",
+      "rubber": "Guma",
+      "engineeredFoams": "Inženirske pene",
+      "construction": "Gradbeništvo"
+    }
+  },
+  "support": {
+    "title": "Celovita podpora na ključnih področjih",
+    "items": {
+      "projectManagement": {
+        "title": "Vodenje projektov",
+        "description": "Od ideje do realizacije"
+      },
+      "supplierSourcing": {
+        "title": "Iskanje dobaviteljev",
+        "description": "Za zanesljivo dobavno verigo"
+      },
+      "costOptimization": {
+        "title": "Optimizacija stroškov",
+        "description": "Za višjo dobičkonosnost"
+      },
+      "logistics": {
+        "title": "Logistika in distribucija",
+        "description": "Za učinkovito dobavno verigo"
+      },
+      "qualityAssurance": {
+        "title": "Zagotavljanje kakovosti",
+        "description": "Za najvišje industrijske standarde"
+      },
+      "technicalConsulting": {
+        "title": "Tehnično svetovanje",
+        "description": "Za najboljšo podporo v razredu"
+      }
+    }
+  },
+  "company": {
+    "title": "O podjetju",
+    "subtitle": "Kdo smo",
+    "paragraphs": {
+      "p1": "JRM Business Development je slovensko podjetje, ki deluje kot strateški poslovno-razvojni partner za proizvodna podjetja. Specializirani smo za povezovanje kupcev in dobaviteljev v industrijskih ter proizvodnih verigah vrednosti po EU.",
+      "p2": "Podjetje je ustanovljeno in vodeno s strani operativcev z dolgoletnimi izkušnjami v avtomobilski industriji, industrijski avtomatizaciji ter B2B prodaji. Naš pristop temelji na globokem razumevanju proizvodnih procesov, tehničnih zahtev in komercialnih dinamik.",
+      "p3": "Naš fokus ni kratkoročna transakcija, temveč dolgoročna partnerstva. Delujemo kot podaljšek vaše ekipe - od identifikacije priložnosti, skozi RFQ procese, do stabilizacije serijske proizvodnje."
+    },
+    "stats": {
+      "title": "Številke in dejstva",
+      "partners": "20+ aktivnih proizvodnih partnerjev v EU in ZDA",
+      "rfqs": "80+ aktivnih RFQ-jev in sourcing projektov",
+      "volumes": "Projekti od 100.000 do več milijonov kosov letno",
+      "regions": "Kupci v DACH regiji, EU, ZDA in ZK",
+      "standards": "Delo skladno s standardi ISO9001, IATF 16949, ISO13485, APQP, PPAP, VDA 6.3"
+    }
+  },
+  "services": {
+    "title": "Storitve",
+    "items": {
+      "businessDevelopment": {
+        "title": "Business Development & Sourcing",
+        "bullets": [
+          "Strukturiran dostop do OEM in Tier-1 kupcev",
+          "Aktivno upravljanje RFQ procesov",
+          "Razvoj novih poslovnih priložnosti"
+        ]
+      },
+      "supplierSourcing": {
+        "title": "Supplier Sourcing & Qualification",
+        "bullets": [
+          "Identifikacija in predkvalifikacija dobaviteljev",
+          "Tehnična in komercialna analiza",
+          "Zmanjšanje tveganja pri uvajanju novih virov"
+        ]
+      },
+      "rfq": {
+        "title": "RFQ, CBD & pogajanja",
+        "bullets": [
+          "Razumevanje stroškovnih struktur",
+          "Podpora pri ponudbah in pogajanjih",
+          "Fokus na dolgoročno vzdržnost, ne \"dumping\""
+        ]
+      },
+      "production": {
+        "title": "Zagon serijske proizvodnje",
+        "bullets": [
+          "Podpora do SOP",
+          "Koordinacija med kupcem in dobaviteljem",
+          "Dolgoročna stabilizacija sodelovanja"
+        ]
+      }
+    }
+  },
+  "technologies": {
+    "title": "Tehnologije in kompetence",
+    "items": [
+      "Plastični brizgani izdelki iz termoplastov in duroplastov",
+      "Precizna CNC obdelava in obdelava ulitkov",
+      "Štancani in preoblikovani kovinski deli",
+      "Hibridni kovinsko-plastični deli in sklopi",
+      "Kabelski snopi in kabelski sklopi",
+      "Elektronski moduli, PCBA, EMS",
+      "Inženirske pene in mehke komponente",
+      "Vrhunsko les-ALU in leseno stavbno pohištvo"
+    ]
+  },
+  "industries": {
+    "title": "Industrije, v katerih delujemo",
+    "items": {
+      "automotive": {
+        "title": "Avtomobilska industrija & mobilnost",
+        "description": "OEM, Tier-1, Tier-2"
+      },
+      "automation": {
+        "title": "Industrijska avtomatizacija in stroji",
+        "description": "Avtomatizacija in strojegradnja"
+      },
+      "electronics": {
+        "title": "Elektronika in EMS",
+        "description": "Elektronski moduli in storitve"
+      },
+      "medical": {
+        "title": "Medicinska in merilna oprema",
+        "description": "Medicinski in merilni instrumenti"
+      },
+      "construction": {
+        "title": "Gradbeni in arhitekturni sistemi",
+        "description": "Gradbeni sistemi in elementi"
+      }
+    }
+  },
+  "contact": {
+    "title": "Raziščimo, ali obstaja sinergija",
+    "subtitle": "Kratek sestanek za oceno: tehnične in komercialne usklajenosti; relevantnih zmogljivosti in obsegov; potencialnih pilotnih ali sourcing projektov.",
+    "form": {
+      "name": "Ime in priimek",
+      "company": "Podjetje",
+      "email": "E-pošta",
+      "phone": "Telefon",
+      "message": "Sporočilo",
+      "privacy": "Strinjam se s politiko zasebnosti",
+      "submit": "Pošlji sporočilo",
+      "sending": "Pošiljam...",
+      "success": "Sporočilo uspešno poslano!",
+      "error": "Napaka pri pošiljanju. Poskusite znova."
+    },
+    "direct": {
+      "title": "Direktni kontakt",
+      "email": "info@jrm-bd.com",
+      "phone": "+386 XX XXX XXX"
+    }
+  },
+  "footer": {
+    "company": "JRM Business Development d.o.o.",
+    "tagline": "Strategic Commercial Partner for EU Manufacturing",
+    "privacy": "Zasebnost",
+    "sitemap": "Zemljevid strani"
+  },
+  "notFound": {
+    "title": "Stran ne obstaja",
+    "description": "Stran, ki jo iščete, ne obstaja.",
+    "backHome": "Nazaj domov"
+  },
+  "seo": {
+    "home": {
+      "title": "JRM Business Development | Strateški komercialni partner",
+      "description": "Strateški komercialni partner za industrijske in proizvodne verige v EU. Business development, sourcing in komercialne rešitve."
+    },
+    "company": {
+      "title": "O podjetju | JRM Business Development",
+      "description": "Spoznajte JRM Business Development - slovensko podjetje za strateški poslovni razvoj v proizvodni industriji."
+    },
+    "services": {
+      "title": "Storitve | JRM Business Development",
+      "description": "Business development, supplier sourcing, RFQ management in zagon serijske proizvodnje za proizvodna podjetja."
+    },
+    "technologies": {
+      "title": "Tehnologije | JRM Business Development",
+      "description": "Plastika, CNC kovine, elektronika, kabelski snopi in druge proizvodne tehnologije."
+    },
+    "industries": {
+      "title": "Industrije | JRM Business Development",
+      "description": "Avtomobilska industrija, industrijska avtomatizacija, elektronika, medicinska oprema in gradbeništvo."
+    },
+    "contact": {
+      "title": "Kontakt | JRM Business Development",
+      "description": "Stopite v stik z nami. Raziščimo možnosti sodelovanja v proizvodni industriji."
+    }
+  }
+}
